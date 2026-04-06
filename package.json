@@ -2,10 +2,10 @@
   "name": "fs-1",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "start": "vite preview"
-  },
+  "dev": "npx vite",
+  "build": "npx vite build",
+  "start": "npx vite preview"
+}
   "engines": {
     "node": "24.x"
   },
