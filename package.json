@@ -5,16 +5,10 @@
     "dev": "vite",
     "build": "vite build",
     "start": "vite preview"
-  }
+  },
   "engines": {
-  "node": "18.x"
-}
-  "scripts": {
-  "build": "vite build",
-  "dev": "vite",
-  "start": "vite preview"
-}
-}
+    "node": "18.x"
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
