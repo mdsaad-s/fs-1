@@ -5,10 +5,10 @@
   "dev": "npx vite",
   "build": "npx vite build",
   "start": "npx vite preview"
-}
-  "engines": {
-    "node": "24.x"
-  },
+},
+"engines": {
+  "node": "24.x"
+},
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
